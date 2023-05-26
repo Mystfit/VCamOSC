@@ -1,0 +1,9 @@
+{
+  "cpu": {
+    "fqbn": "esp32:esp32:adafruit_feather_esp32_v2:DebugLevel=none,PSRAM=enabled,PartitionScheme=default,UploadSpeed=921600",
+    "name": "Adafruit Feather ESP32 V2",
+    "type": "serial"
+  },
+  "secrets": [],
+  "included_libs": []
+}
